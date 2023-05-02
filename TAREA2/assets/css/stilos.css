@@ -1,0 +1,144 @@
+.nav-link svg {
+    margin-right: 4px;}
+
+   .carrusel{
+    margin-top: -10px;
+    width: 100%;
+   }
+
+   .nunu{
+    margin-top: -10px;
+   }
+
+   
+
+  
+
+
+   .cajaa {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+  }
+  
+  .cajaa .cajita {
+    max-width: 900px;
+    max-height: 900px;
+background:black;
+padding: 10px;
+  }
+
+  .card-title {
+    font-size: 70px;
+  }
+  
+  .card-text {
+    font-size: 20px;
+  }
+  
+  .card-subtitle {
+    font-size: 4rem;
+  }
+  .card-link{
+    font-size: 20px;
+  }
+ 
+  .textopie{
+    font-size: 4rem;
+  }
+  
+  @media screen and (max-width: 1100px) {
+    .card-title {
+      font-size: 1rem;
+    }
+    
+    
+
+
+    .textopie{
+      font-size: 0.6rem;
+    }
+    
+    .card-subtitle {
+      font-size: 1rem;
+    }
+    .card-link{
+      font-size: 9px;
+    }
+
+    .cajaa .cajita {
+        max-width: 100%;
+       background: none;
+      
+       
+      }
+      .texto2{
+        font-size: 3px;
+        padding: 0;
+  }
+
+  .textooo{
+    margin: 0;
+  }
+  .cajaa .cajita {
+    background: none;
+  }
+   h1{
+    margin: 0;
+   }
+  
+  
+  
+
+  }
+
+  
+  @media  (max-width: 375px) {
+    .cajaa .cajita {
+      background: none;
+    }
+
+   
+  
+    .card-title {
+      font-size: 35px;
+    }
+    
+    
+    
+    .card-subtitle {
+      font-size: 1rem;
+    }
+    .card-link{
+      font-size: 13px;
+    }
+   
+    .textopie{
+      font-size: 0.5rem;
+    }
+
+  }
+  @media screen and (min-width:1000px){
+   
+  
+    .card-title {
+      font-size: 45px;
+    }
+    
+    
+    
+    .card-subtitle {
+      font-size: 2rem;
+    }
+    .card-link{
+      font-size: 20px;
+    }
+   
+    .textopie{
+      font-size: 1.8rem;
+    }
+  }
+ 
+
+ 
